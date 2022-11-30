@@ -1,6 +1,7 @@
-The school is open!  > bash/school
-bash: bash/alx: Is a directory
-root@296f63c777eb:~/alx-zero_day/0x03-git# rm -r bash/alx bash/school
-root@296f63c777eb:~/alx-zero_day/0x03-git# touch bash/alx bash/school
-root@296f63c777eb:~/alx-zero_day/0x03-git# echo ALX > bash/alx
-root@296f63c777eb:~/alx-zero_day/0x03-git# echo The school is open!
+#!/bin/bash
+ALX School is so cool!
+
+
+
+
+
