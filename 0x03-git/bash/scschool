@@ -1,2 +1,6 @@
+<<<<<<< HEAD:0x03-git/bash/scschool
 #!/bin/bash
 School
+=======
+The school is open!
+>>>>>>> update_script:0x03-git/school
